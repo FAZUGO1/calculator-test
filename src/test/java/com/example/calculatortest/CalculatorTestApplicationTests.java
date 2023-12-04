@@ -13,7 +13,7 @@ import org.springframework.boot.test.context.SpringBootTest;
 @SpringBootTest
 class CalculatorTestApplicationTests {
 
-    Calculator calculator = new Calculator();
+     Calculator calculator = new Calculator();
     
     @Test
     void testSuma(){
